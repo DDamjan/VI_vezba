@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar.navbar-default
+	{
+		background-color: #003569;
+		border: 0;
+	}
+.dropdown-toggle:active, .open .dropdown-toggle 
+	{
+		background:#1BA1E2 !important;
+		color:#FFFFFF !important;
+	}
